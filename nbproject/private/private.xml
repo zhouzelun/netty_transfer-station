@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/home/zzl/NetBeansProjects/SystemServer/src/SensorClass/Co1Data.java</file>
+            <file>file:/home/zzl/NetBeansProjects/SystemServer/src/systemserver/DealBufferManagement.java</file>
+            <file>file:/home/zzl/NetBeansProjects/SystemServer/src/systemserver/UdpDataRecvServer.java</file>
+            <file>file:/home/zzl/NetBeansProjects/SystemServer/src/systemserver/UdpRecvServerHandler.java</file>
+            <file>file:/home/zzl/NetBeansProjects/SystemServer/src/SensorClass/Ch4Data.java</file>
+            <file>file:/home/zzl/NetBeansProjects/SystemServer/src/SqlManagement/SqlManagement.java</file>
+            <file>file:/home/zzl/NetBeansProjects/SystemServer/src/systemserver/DataSendServerHandler.java</file>
+            <file>file:/home/zzl/NetBeansProjects/SystemServer/src/SensorClass/TempData.java</file>
+            <file>file:/home/zzl/NetBeansProjects/SystemServer/src/HttpManagement/PostManager.java</file>
+            <file>file:/home/zzl/NetBeansProjects/SystemServer/src/SensorClass/AshData.java</file>
+            <file>file:/home/zzl/NetBeansProjects/SystemServer/src/systemserver/TcpRecvServerHandler.java</file>
+            <file>file:/home/zzl/NetBeansProjects/SystemServer/src/systemserver/SystemServer.java</file>
+            <file>file:/home/zzl/NetBeansProjects/SystemServer/src/systemserver/DataSendServer.java</file>
+            <file>file:/home/zzl/NetBeansProjects/SystemServer/build.xml</file>
+            <file>file:/home/zzl/NetBeansProjects/SystemServer/src/SensorClass/UdpData.java</file>
+            <file>file:/home/zzl/NetBeansProjects/SystemServer/src/systemserver/TcpDataRecvServer.java</file>
+        </group>
+    </open-files>
+</project-private>
